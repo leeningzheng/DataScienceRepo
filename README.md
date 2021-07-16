@@ -1,4 +1,2 @@
-# LearningRepo
-Learning repository for building experience with GitHub
-
-This is the first change and commit done in my GitHub account
+# IBM Data Science Repo
+Learning repository for storing my data science exercises and building experience with GitHub
